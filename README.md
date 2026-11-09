@@ -1,7 +1,16 @@
-# Cześć, jestem Dariusz
+# Cześć, jestem Dariusz Kisiel
 
-Jestem technikiem informatykiem z Lublina. Rozwijam Wilczy Sprzęt i własne umiejętności w administracji systemami Linux, sieciach LAN oraz serwisie komputerów.
+Technik informatyk z Lublina. Rozwijam Wilczy Sprzęt.
 
-Pracuję z Debianem, Ubuntu i Proxmoxem. Na GitHubie chcę pokazywać własną pracę i dokumentować naukę.
+## Czym się zajmuję
 
-[Moja strona i kontakt](https://dariuszkisiel.pl/) · [Wilczy Sprzęt](https://wilczysprzet.pl/)
+Zajmuję się serwisem komputerów, systemami Linux i sieciami LAN. Pracuję z Debianem, Ubuntu i Proxmoxem. We własnym laboratorium rozwijam wirtualizację i kopie zapasowe.
+
+## Technologie
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
+## Kontakt
+
+- [dariuszkisiel.pl](https://dariuszkisiel.pl/)
+- [wilczysprzet.pl](https://wilczysprzet.pl/)
