@@ -60,6 +60,14 @@ Wybrane certyfikaty Cisco Networking Academy (Linux, sieci, cybersecurity, Pytho
   <img src="https://streak-stats.demolab.com?user=xBestia2004&theme=github-dark-blue&hide_border=true&ring=00e58f&fire=00e58f&currStreakLabel=00e58f" alt="Seria aktywności GitHub" />
 </p>
 
+## Aktywność
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xBestia2004/xBestia2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xBestia2004/xBestia2004/output/github-contribution-grid-snake.svg">
+  <img alt="Animowany wykres aktywności GitHub" src="https://raw.githubusercontent.com/xBestia2004/xBestia2004/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## Kontakt
